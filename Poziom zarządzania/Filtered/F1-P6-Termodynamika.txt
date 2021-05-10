@@ -1,0 +1,50 @@
+1. Typowe, podstawowe parametry termodynamiczne to: >A. ciśnienie p, temperatura T, objętość właściwa v _n_B. ciśnienie p, temperatura T, praca L _n_C. ciśnienie p, entropia S, objętość właściwa v _n_D. ciśnienie p, temperatura T, energia wewnętrzna U. >0
+2. Jednostką ciśnienia w układzie SI jest: >A. Pa _n_B. Ap _n_C. Kgm _n_D. CGS >0
+3. Entalpię w termodynamice definiuje równanie: >A. E=mv^2_n_B. I=U+pV _n_C. J= U+p^2*V_n_D. E=mv>1
+4. Pracę bezwzględną definiuje określenie: >A. Praca wykonana przez czynnik termodynamiczny wówczas, gdy parametry przemiany mierzone są wartościami bezwzględnymi. _n_B. Praca odebrana na wolnym końcu wału korbowego silnika spalinowego. _n_C. Praca wykonana przez czynnik termodynamiczny wówczas, gdy ciśnienie otoczenia jest równe zeru. _n_D. Praca wykonana przez czynnik termodynamiczny wówczas, gdy podana jest w wartościach bezwzględnych. >2
+5. Równanie stanu gazu (Clapeyrona) określa zależność: >A. pV=mRT _n_B. pv=mRT _n_C. pVm=RT _n_D. dQ=dU+dL >0
+6. Przemiana izotermiczna przebiega przy: >A. stałej temperaturze czynnika _n_B. stałej objętości właściwej czynnika _n_C. stałym ciśnieniu czynnika _n_D. stałej ilości pobieranego ciepła z otoczenia >0
+7. Przemiana izochoryczna przebiega przy: >A. stałej temperaturze czynnika _n_B. stałej objętości właściwej czynnika _n_C. stałym ciśnieniu czynnika _n_D. stałej ilości pobieranego ciepła z otoczenia >1
+8. Przemiana izobaryczna przebiega przy: >A. stałej temperaturze czynnika _n_B. stałej objętości właściwej czynnika _n_C. stałym ciśnieniu czynnika _n_D. stałej ilości pobieranego ciepła z otoczenia >2
+9. W obiegu silnikowym Carnota czynnikiem roboczym jest: >A. para wodna przegrzana _n_B. mieszanka paliwowo-powietrzna _n_C. gaz doskonały _n_D. powietrze. >2
+10. Entropię w termodynamice określa zależność: >A. dS=dQ/T _n_B. dS=dQ/dT _n_C. dS=dq/dt _n_D. dS=Q/T >0
+11. Przewodzenie ciepła zachodzi: >A. w gazach _n_B. w cieczach _n_C. w ciałach stałych _n_D. w gazach doskonałych >2
+12. Unoszenie ciepła zachodzi: >A. w gazach i cieczach _n_B. w gazach doskonałych i metalach szlachetnych _n_C. w cieczach i metalach _n_D. w metalach szlachetnych i gazach szlachetnych >0
+13. Na rys. 1 przedstawiono: >A. obieg porównawczy Otto silnika spalinowego _n_B. obieg porównawczy Carnota siłowni parowej _n_C. obieg porównawczy Diesla silnika spalinowego _n_D. obieg porównawczy Carnota silnika spalinowego >1>01.jpg
+14. Rys. 2 przedstawia: >A. obieg porównawczy Otto silnika spalinowego _n_B. obieg porównawczy Carnota siłowni parowej _n_C. obieg porównawczy Diesla silnika spalinowego _n_D. obieg porównawczy Clausiusa-Rankine’a siłowni parowej >3>02.jpg
+15. Rys. 3 przedstawia: >A. obieg chłodniczy Carnota dla chłodni _n_B. obieg chłodniczy Lindego dla chłodni _n_C. obieg chłodniczy Clausiusa dla chłodni _n_D. obieg chłodniczy Rankine’a dla chłodni >1>03.jpg
+16. Rys. 4 przedstawia: >A. sposób powstawania mgły _n_B. wykres i1+x-x powietrza wilgotnego _n_C. wykres dla charakterystyki powietrza w saunie _n_D. wykres powstawanie pary wodnej w powietrzu >1>04.jpg
+17. Rys. 5 przedstawia: >A. obieg porównawczy Otto silnika spalinowego _n_B. obieg porównawczy Carnota siłowni parowej _n_C. obieg porównawczy Diesla silnika spalinowego _n_D. obieg porównawczy Clausiusa-Rankine’a siłowni parowej >2>05.jpg
+18. Rys. 6 przedstawia: >A. obieg porównawczy Sabathe’a silnika spalinowego _n_B. obieg porównawczy Otto silnika spalinowego _n_C. obieg porównawczy Diesla silnika spalinowego _n_D. obieg porównawczy Clausiusa-Rankine’a siłowni parowej >0>06.jpg
+19. Rys. 7 przedstawia: >A. wykres pracy sprężarki _n_B. wykres pracy bezwzględnej _n_C. wykres pracy silnika tłokowego _n_D. wykres pracy technicznej >1>07.jpg
+20. Rys. 8 przedstawia: >A. wykres pracy sprężarki _n_B. wykres pracy bezwzględnej _n_C. wykres pracy silnika tłokowego _n_D. wykres pracy technicznej >3>08.jpg
+21. Rys. 9 przedstawia: >A. interpretację ciepła _n_B. interpretację pracy bezwzględnej _n_C. interpretację ciepła pracy silnika tłokowego _n_D. interpretację pracy technicznej >0>09.jpg
+22. Rys. 10 przedstawia: >A. schemat obiegu nieodwracalnego _n_B. schemat obiegu silnikowego _n_C. schemat obiegu chłodniczego _n_D. schemat obiegu odwracalnego >1>10.jpg
+23. Rys. 11 przedstawia: >A. schemat obiegu nieodwracalnego _n_B. schemat obiegu silnikowego _n_C. schemat obiegu chłodniczego _n_D. schemat obiegu odwracalnego >2>11.jpg
+24. Rys. 12 przedstawia: >A. gotowanie wody _n_B. izobaryczne wytwarzanie pary _n_C. nasycanie wody gazem _n_D. usuwanie rodników z wody >1>12.jpg
+25. Rys. 13 przedstawia: >A. schemat siłowni parowej dla obiegu Clausiusa-Rankine’a _n_B. schemat siłowni parowej dla obiegu Rankine’a _n_C. schemat siłowni parowej dla obiegu Carnota _n_D. schemat siłowni parowej dla obiegu Clausiusa >2>13.jpg
+26. Rys. 14 przedstawia: >A. schemat wodnego tłumika współprądowego _n_B. schemat wymiennika ciepła współprądowego _n_C. schemat wodnego tłumika przeciwprądowego _n_D. schemat wymiennika ciepła przeciwprądowego >1>14.jpg
+27. Rys. 15 przedstawia: >A. schemat wodnego tłumika współprądowego _n_B. schemat wymiennika ciepła współprądowego _n_C. schemat wodnego tłumika przeciwprądowego _n_D. schemat wymiennika ciepła przeciwprądowego >3>15.jpg
+28. Równanie p1v1=p2v2 opisuje: >A. prawo Gay-Lussaca _n_B. prawo Boyle’a i Mariotte’a _n_C. prawo Charlesa _n_D. równanie Clapeyrona >1
+29. Równanie v1/v2=T1/T2 opisuje: >A. prawo Gay-Lussaca _n_B. prawo Boyle’a i Mariotte’a _n_C. prawo Charlesa _n_D. równanie Clapeyrona >0
+30. Równanie p1/p2=T1/T2 opisuje: >A. prawo Gay-Lussaca _n_B. prawo Boyle’a i Mariotte’a _n_C. prawo Charlesa _n_D. równanie Clapeyrona >2
+31. Równanie pv^m=idem opisuje: >A. przemianę politropową _n_B. przemianę izentropową _n_C. przemianę izobaryczną _n_D. przemianę izochoryczną >0
+32. Wysokość prędkości, wysokość ciśnienia, wysokość położenia występuje w równaniu: >A. ciągłości przepływu _n_B. równaniu Bernoulliego _n_C. równaniu Newtona _n_D. równaniu Fouriera >1
+33. Przepływ laminarny występuje gdy liczba Re jest mniejsza od: >A. 2300 _n_B. 5300 _n_C. 80000 _n_D. 12000 >0
+34. Przepływ burzliwy występuje gdy liczba Re jest większa od: >A. 2300 _n_B. 5300 _n_C. 80000 _n_D. 150000 >2
+35. Przewodzenie ciepła przedstawione na rys. 16 opisuje równanie: >A. równanie Pecleta _n_B. równaniu Bernoulliego _n_C. równaniu Newtona _n_D. równaniu Fouriera >3>16.jpg
+36. Przejmowanie ciepła przedstawione na rys. 17 opisuje równanie: >A. równanie Pecleta _n_B. równaniu Bernoulliego _n_C. równaniu Newtona _n_D. równaniu Fouriera >2>17.jpg
+37. Przenikanie ciepła przedstawione na rys. 18 opisuje równanie: >A. równanie Pecleta _n_B. równaniu Bernoulliego _n_C. równaniu Newtona _n_D. równaniu Fouriera >0>18.jpg
+38. W obiegu porównawczy Otto silnika spalinowego czynnikiem roboczym jest: >A. para wodna przegrzana _n_B. mieszanka paliwowo-powietrzna _n_C. gaz doskonały _n_D. powietrze >2
+39. W obiegu porównawczy Diesla silnika spalinowego czynnikiem roboczym jest: >A. para wodna przegrzana _n_B. mieszanka paliwowo-powietrzna _n_C. gaz doskonały _n_D. powietrze >2
+40. W obiegu porównawczy Sabathe’a silnika spalinowego czynnikiem roboczym jest: >A. para wodna przegrzana _n_B. mieszanka paliwowo-powietrzna _n_C. gaz doskonały _n_D. powietrze >2
+41. Zależność v=V/m [m3/kg] określa: >A. ciężar właściwy _n_B. objętość właściwą _n_C. masę jednostkową _n_D. gęstość >1
+42. Zależność m/V [kg/m3] określa: >A. ciężar właściwy _n_B. objętość właściwą _n_C. masę jednostkową _n_D. gęstość >3
+43. Temperaturowa skala termodynamiczna wyrażana jest w: >A. Degach _n_B. Kelwinach _n_C. stopniach Celsjusza _n_D. puazach >1
+44. Ciśnienie manometryczne to: >A. różnica między mierzonym ciśnieniem bezwzględnym a ciśnieniem bezwzględnym otoczenia _n_B. zmierzone ciśnienie dynamiczne _n_C. ciśnienie bezwzględne _n_D. ciśnienie otoczenia >0
+45. Poniższe równanie cp-cv=R to równanie: >A. Daltona _n_B. Mayera _n_C. Avogadra _n_D. Charlesa >1
+46. Resublimacja to: >A. proces odwrotny do sublimacji _n_B. proces odwrotny do skraplania _n_C. proces odwrotny do parowania _n_D. szybkie parowanie >0
+47. CO występuje w spalinach w spalaniu: >A. całkowitym _n_B. zupełnym _n_C. niecałkowitym _n_D. niezupełnym >3
+48. Sadza, koksik występują w spalinach w spalaniu: >A. całkowitym _n_B. zupełnym _n_C. niecałkowitym _n_D. niezupełnym >2
+49. Na rys. 19 przedstawiono przemianę: >A. politropową _n_B. izentropową _n_C. izobaryczną _n_D. izochoryczną >2>19.jpg
+50. Na rys. 20 przedstawiono przemianę: >A. politropową _n_B. izentropową _n_C. izobaryczną _n_D. izochoryczną >3>20.jpg

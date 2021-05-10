@@ -1,0 +1,45 @@
+1. O The term that is used to identify the pressure of the liquid entering a pump. >a) discharge head _n_b) pump head _n_c) suction head >2
+2. U Ferrous metals are metals that contain: >a) a large percentage of iron _n_b) a large percentage of zinc _n_c) a large percentage of copper >0
+3. U The vertical distance between the insides of the moulds (including the double bottom). >a) moulded breadth _n_b) length between perpendiculars _n_c) moulded depth >2
+4. U The process of removing moisture from air. >a) evaporation _n_b) vaporization _n_c) dehumidification >2
+5. U A mixture or metallic solid solution composed of two or more elements. >a) cast _n_b) alloy _n_c) forged >1
+6. O What is understood from the Engine Order: “Half Astern Port!” >a) This ship has two bow thrusters. _n_b) This ship has two auxiliary engines. _n_c) This ship has twin propellers. >2
+7. O The extinguishing agent that deprives the air of oxygen and may cause suffocation in a confined space. >a) foam _n_b) dry powder _n_c) carbon dioxide >2
+8. O To pump liquids, positive displacement pumps make use of: >a) fast speed of operation. _n_b) centrifugal force. _n_c) change of volume of the pump chambers. >2
+9. O A CPP on a diesel driven vessel eliminates the need for: >a) disconnected clutches. _n_b) reduction gears. _n_c) reversing gears. >2
+10. U Piston rings that seal the gases above the piston and prevent gas leakage. >a) compression rings _n_b) scraper rings _n_c) oil-spreader rings >0
+11. O The main function of an electric motor is to: >a) generate high voltages. _n_b) develop torque. _n_c) produce a magnetic field. >1
+12. U The upward force of displaced water. >a) draft _n_b) deadweight _n_c) buoyancy >2
+13. O In a four-stroke diesel engine, the intake valves open: >a) before TDC and close before BDC. _n_b) before TDC and close after BDC. _n_c) after TDC and close after BDC. >1
+14. U TBO means: >a) Time Between Overhaul. _n_b) Time Between Overload. _n_c) Time Between Override. >0
+15. U Operation of engines no longer required. >a) “Finished with engines - no more manoeuvring!” _n_b) “Finish with engines and manoeuvring! ” _n_c) “Ready with engines - stop manoeuvring! ” >0
+16. O COW is a system of cleaning the cargo tanks by washing them with the cargo of ….. >a) crude oil. _n_b) water. _n_c) coagulant. >0
+17. O The term that designates the break-up of the fuel charge into very fine particles for better combustion. >a) straining _n_b) settling _n_c) atomization >2
+18. U “Instruct crew on occupational safety before …… .” >a) departure _n_b) disembarkation _n_c) arrival >0
+19. O The element that is not a part of a steering system. >a) tiller _n_b) jib _n_c) ram >1
+20. O “The bearing of shaft line - 2 pcs. To be opened, dirty oil drained and all parts cleaned, examined, adjusted if necessary, assembled, presented to surveyor and CE.” The extract is taken from: >a) work application _n_b) testimonial _n_c) special survey specifications >2
+21. O Calorific value is also termed: >a) specific energy. _n_b) specific burn-up. _n_c) specific charge. >0
+22. O In a crosshead diesel engine, the piston rod motion is described as: >a) straight reciprocating _n_b) reciprocating at the piston pin and rotary at the crank pin _n_c) rotary at the piston pin and reciprocating at the crank pin >0
+23. O The terms: loop, uniflow, cross refer to: >a) supercharging turbochargers _n_b) air circuits control _n_c) scavenging >2
+24. O Inclination of the vessel to port side or starboard side. >a) trim _n_b) list _n_c) hogging >1
+25. O To inert means: >a) to reduce the oxygen in an oil tank by inert gas to avoid an explosive atmosphere. _n_b) to increase the oxygen in an oil tank by inert gas to avoid an explosive atmosphere. _n_c) to maintain the oxygen in an oil tank by inert gas to avoid an explosive atmosphere. >0
+26. U The lifeboat that is always fully enclosed. >a) free-fall lifeboat _n_b) fast rescue craft _n_c) rescue boat >0
+27. U The purpose of annealing a metal is: >a) to decrease ductility. _n_b) to reduce hardness. _n_c) to increase hardness. >1
+28. O The device that is used to measure pressure and convert it to an electrical signal. >a) rectifier _n_b) transformer _n_c) transducer >2
+29. U The term that determines the depth to which fusion occurs in two pieces of metal being joined. >a) throat _n_b) weld reinforcement _n_c) weld penetration >2
+30. O The appliance that converts electrical energy into mechanical energy. >a) electric motor _n_b) generator _n_c) armature >0
+31. O A stern tube bearing is normally lubricated with: >a) grease _n_b) water _n_c) oil >2
+32. O Low compression pressure in a diesel engine can be caused by: >a) a leaking cylinder head gasket. _n_b) worn or broken cylinder liner seal rings. _n_c) carbon deposits on the piston crown. >0
+33. O In a reaction turbine, the fixed blades: >a) prevent turbulence. _n_b) increase steam velocity. _n_c) decrease steam velocity. >1
+34. O The driving force of a propeller is taken up and conveyed to the hull through: >a) thrust block. _n_b) crankshaft bearing. _n_c) main bearing. >0
+35. O The unit “hertz” is equivalent to: >a) cycles per second. _n_b) revolutions per second. _n_c) revolutions per minute. >0
+36. O “What kind of assistance is required?” >a) “Breathing apparatus is available - smoke is toxic.” _n_b) “I require breathing apparatus - smoke is toxic.” _n_c) “Breathing apparatus is accessible – smoke is toxic.” >1
+37. O Accidental escape of oil, etc from a vessel, container, etc. into the sea. >a) leakage _n_b) spill _n_c) flooding. >1
+38. O The first step of onboard fire fighting tactics. >a) extinguish _n_b) alert _n_c) rescue >1
+39. U Which direction is the keel laid in? >a) diagonal _n_b) transverse _n_c) longitudinal >2
+40. O The tool that should be used to tighten the bolts of a crankpin bearing to the exact tension. >a) torque wrench _n_b) monkey wrench _n_c) ratchet wrench >0
+41. O “…….an officer in charge of safety before working!” >a) Appoint _n_b) Describe _n_c) Characterize >0
+42. U An ammeter is used to measure: >a) current flow in a circuit. _n_b) the voltage between two points in a circuit. _n_c) total circuit resistance. >0
+43. O The type of a fire detector that goes off first in case of fire. >a) heat detector _n_b) smoke detector _n_c) flame detector >1
+44. O In a single acting diesel engine, the main difference between cross scavenging and loop scavenging. >a) the volume of air admitted to the cylinder. _n_b) the sequence of port opening. _n_c) the direction of air flow within the cylinder. >2
+45. U “ ………= mass / volume” What is missing from this formula? >a) density _n_b) weight _n_c) concentration >0

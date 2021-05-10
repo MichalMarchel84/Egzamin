@@ -1,0 +1,56 @@
+1. O Układ pompowy pokazany na rys. 1 jest układem: >A. ssąco-tłoczącym _n_B. tłoczącym _n_C. ssącym >1>01.jpg
+2. O Wielkość HZ na rys. 1 oznacza: >A. geometryczną wysokość ssania pompy _n_B. geometryczną wysokość tłoczenia pompy _n_C. geometryczną wysokość podnoszenia >2>01.jpg
+3. O Charakterystyka układu pompowego YUK(Q)1 na rys. 2 jest: >A. lżejsza od charakterystyki YUK(Q)3 _n_B. cięższa od charakterystyki YUK(Q)3 _n_C. równa charakterystyce YUK(Q)3 >0>02.jpg
+4. O Charakterystyka pompy pokazana na rys. 3 jest: >A. charakterystyką pompy tłokowej _n_B. charakterystyką pompy rotacyjnej _n_C. charakterystyką pompy wirowej >1>03.jpg
+5. O Na rys. 4 pokazano współpracę z układem pompowym: >A. pompy wyporowej _n_B. pompy wirowej _n_C. pompy strumieniowej >1>04.jpg
+6. O W punkcie współpracy pompy z układem pompowym: >A. praca pompy jest równa zapotrzebowaniu energii układu pompowego _n_B. praca pompy jest większa od zapotrzebowania energii układu _n_C. praca pompy jest mniejsza od zapotrzebowania energii układu >0
+7. O Regulację wydajności pompy odśrodkowej jest dopuszczalna przez dławienie zaworem na: >A. ssaniu pompy _n_B. tłoczeniu pompy _n_C. jednocześnie na ssaniu i tłoczeniu pompy >1
+8. O Kawitację w pompie wirowej można przerwać przez: >A. zmniejszenie wydajności pompy przez dławienie na zaworze tłocznym _n_B. podwyższenie temperatury pompowanej cieczy _n_C. zmianę ciśnienia na ssaniu pompy >0
+9. O Wzrost temperatury pompowanej cieczy: >A. nie ma wpływu na wysokość ssania pompy _n_B. powoduje wzrost wysokości ssania pompy _n_C. powoduje spadek wysokości ssania pompy >2
+10. O Wzrost poziomu cieczy w zbiorniku docelowym powoduje w pompie rotacyjnej: >A. spadek wydajności _n_B. wzrost wydajności _n_C. nie ma wpływu na wydajność >0
+11. O Na rys. 5 pompy odśrodkowe współpracują: >A. równolegle _n_B. szeregowo _n_C. nie współpracują >1>05.jpg
+12. O Praca techniczna sprężania izotermicznego jest: >A. większa od pracy technicznej sprężania politropowego _n_B. równa pracy technicznej sprężania politropowego _n_C. mniejsza od pracy technicznej sprężania politropowego >2
+13. O Tłokowa sprężarka okrętowa pracuje według obiegu: >A. izotermicznego _n_B. politropowego _n_C. adiabatycznego >1
+14. O Konieczność sprężania wielostopniowego wynika z trudności uzyskania wysokiego ciśnienia tłoczenia sprężarki tłokowej jednostopniowej z powodu: >A. ograniczeń konstrukcyjnych zmniejszania przestrzeni szkodliwej _n_B. ograniczenia końcowej temperatury sprężania w stopniu _n_C. jednocześnie z ograniczeń konstrukcyjnych i temperaturowych >2
+15. O Na rys. 6 ciśnienie tłoczenia z pierwszego stopnia sprężarki dwustopniowej wynosi: >A. pt _n_B. pp _n_C. pss >1>06.jpg
+16. O Współczynnik przetłaczania sprężarki tłokowej pozwala na: >A. porównanie efektywności pracy sprężarki rzeczywistej i sprężarki idealnej _n_B. wyznaczenie stopnia sprężania sprężarki _n_C. zaprojektowanie układu chłodzenia sprężarki >0
+17. O Zanieczyszczenie filtra na ssaniu sprężarki powietrza powoduje: >A. spadek ciśnienia tłoczenia _n_B. wzrost ciśnienia tłoczenia _n_C. nie ma wpływu na ciśnienie tłoczenia >0
+18. O Zwiększenie przestrzeni szkodliwej w sprężarce tłokowej powoduje: >A. spadek wydajności _n_B. wzrost wydajności _n_C. nie ma wpływu na wydajność >0
+19. O Sprężarki powietrza rozruchowego powinny napełnić butlę powietrza od ciśnienia atmosferycznego do ciśnienia roboczego w: >A. 0,5 godziny _n_B. 1 godzinę _n_C. 1,5 godziny >1
+20. O Pojemność butli powietrza rozruchowego powinna zapewniać: >A. 12 rozruchów silnika nawrotnego na przemian naprzód i wstecz _n_B. 12 rozruchów silnika nawrotnego naprzód _n_C. 6 rozruchów silnika nawrotnego na przemian naprzód i wstecz >0
+21. T Charakterystyka zewnętrzna sprężarki wyporowej pokazana na rys. 7 ma przebieg: >A. liniowy _n_B. paraboliczny _n_C. hiperboliczny >2>07.jpg
+22. O Na rys. 8 prędkość obrotowa sprężarki promieniowej na charakterystyce p(qv)n3 jest: >A. mniejsza niż na charakterystyce p(qv)n4 _n_B. mniejsza niż na charakterystyce p(qv)n2 _n_C. mniejsza niż na charakterystyce p(qv)n1 >0>08.jpg
+23. O Pompowanie sprężarki wirowej doładowującej silnik napędu głównego statku może wystąpić przy: >A. wolnym zmniejszaniu pełnego obciążenia silnika _n_B. szybkim zmniejszaniu pełnego obciążenia silnika _n_C. czas zmniejszania pełnego obciążenia silnika nie ma wpływu na pompowanie>1
+24. O Pokazana na rys. 9 charakterystyka obrazuje współpracę sprężarki powietrza: >A. z instalacją powietrza do automatyki _n_B. z instalacją doładowania silnika spalinowego _n_C. z instalacją powietrza rozruchowego >2>09.jpg
+25. O Suwakowa regulacja wydajności stosowana jest w sprężarkach: >A. tłokowych _n_B. śrubowych _n_C. odśrodkowych >1
+26. O Wentylatory posiadają stopień sprężania: >A. <1.1 _n_B. 1.5 _n_C. 1.1 - 1.5 >0
+27. O Wydajność wentylatorów osiowych: >A. można regulować przez dławienie na ssaniu _n_B. można regulować przez dławienie na tłoczeniu _n_C. nie wolno regulować wydajności przez dławienie >2
+28. O Filtr z wkładem z ceramiki porowatej jest filtrem: >A. powierzchniowym _n_B. objętościowym _n_C. absorpcyjnym >1
+29. O Dopuszczalny opór hydrauliczny filtra mechanicznego wynosi zwykle: >A. ~0,05 MPa _n_B. ~0,10 MPa _n_C. ~0,15 MPa >0
+30. O Filtry dokładne zatrzymują zanieczyszczenia o wymiarach: >A. 2 - 6 um _n_B. 10 - 40 um _n_C. 40 - 80 um >1
+31. O Skuteczność lub sprawność filtrowania określona jest stosunkiem: >A. masy zanieczyszczeń osadzonych na filtrze do masy zanieczyszczeń w czynniku oczyszczanym przed filtrem_n_B. masy zanieczyszczeń w czynniku oczyszczanym za filtrem do masy zanieczyszczeń w czynniku oczyszczanym przed filtrem_n_C. masy zanieczyszczeń osadzonych na filtrze do masy zanieczyszczeń w czynniku oczyszczanym za filtrem>0
+32. O Sztuczne pole grawitacyjne w wirówce jest większe od ziemskiego pola grawitacyjnego: >A. kilkaset razy _n_B. kilka tysięcy razy _n_C. kilkadziesiąt tysięcy razy >1
+33. O Klaryfikator odwirowuje z paliwa lub oleju: >A. zanieczyszczenia stałe _n_B. wodę _n_C. zanieczyszczenia stałe i wodę >2
+34. O Wirówka przedstawiona na rys. 10 jest: >A. klaryfikatorem _n_B. puryfikatorem _n_C. puryfikatorem z pompą opróżniającą >2>10.jpg
+35. O Średnica granicy podziału faz (woda – olej) w puryfikatorze wynika z: >A. różnicy gęstości wody i oleju _n_B. średnicy osłony selekcyjnej (tarczy wodnej) _n_C. różnicy gęstości wody i oleju oraz średnicy osłony selekcyjnej (tarczy wodnej)>2
+36. O Temperatura odwirowania paliwa ciężkiego w puryfikatorze powinna wynosić: >A. 80 - 90 st. C_n_B. 85 - 90 st. C_n_C. 95 - 98 st. C>2
+37. O Systemy wirowania paliw najcięższych pozwalają na wirowanie: >A. paliwa o gęstości do 1015 kg/m^3_n_B. paliwa o gęstości do 1000 kg/m^3_n_C. paliwa o gęstości do 990 kg/m^3>2
+38. O Usuwanie nadmiaru wody z bębna wirówki do paliw najcięższych następuje przez: >A. tylko przez otwarcie zaworu odwadniającego bębna _n_B. tylko przez odstrzelenie bębna wirówki _n_C. otwarcie zaworu odwadniającego lub odstrzelenie bębna zależnie od poziomu zawartości wody w paliwie oczyszczonym i czasu cyklu wirowania>2
+39. O Olej smarny okrętowego silnika napędu głównego dużej mocy wirowany jest w czasie pracy silnika: >A. okresowo _n_B. ciągle _n_C. na przemian okresowo i ciągle >1
+40. O Podwyższenie efektywności wirowania można osiągnąć przez: >A. zwiększenie wydajności i podwyższenie temperatury wirowania _n_B. zwiększenie wydajności i obniżenie temperatury wirowania _n_C. zmniejszenie wydajności i podwyższenie temperatury wirowania >2
+41. O Obniżenie temperatury paliwa zasilającego silnik jest objawem: >A. zużywaniem się pompy zębatej wiskozymetru kapilarnego _n_B. nieprawidłowym działaniem zaworu dolotowego pary do podgrzewacza _n_C. kombinacją A lub B >2
+42. O Prędkość zmiany rodzaju paliwa zasilającego silnik jest bardziej krytyczna podczas przejścia: >A. z paliwa lekkiego na ciężkie _n_B. z paliwa ciężkiego na lekkie _n_C. nie ma znaczenia >1
+43. O Optymalna lepkość paliwa przygotowanego do wtrysku w silniku okrętowym wynosi: >A. 2 - 4 cSt _n_B. 10 - 20 cSt _n_C. 30 - 40 cSt >1
+44. O Układ hydrauliczny przedstawiony na rys. 11 to: >A. układ zamknięty _n_B. układ otwarty _n_C. układ z pompą o zmiennej wydajności >0>11.jpg
+45. O Regulacja wydajności pompy głównej 1 na rys. 12 jest regulacją: >A. stopniową _n_B. dławieniową _n_C. objętościową >2>12.jpg
+46. O W stacji zasilającej hydrauliki siłowej rys. 13 zastosowano: >A. filtr na ssaniu pompy _n_B. filtr na tłoczeniu pompy _n_C. filtr spływowy >2>13.jpg
+47. O Rozdzielacz pokazany na rys. 14 jest: >A. sterowany elektrohydraulicznie _n_B. sterowany hydraulicznie _n_C. sterowany elektromagnetycznie >0>14.jpg
+48. O W elektrohydraulicznym urządzeniu sterowym rys. 15 zawory bezpieczeństwa 8 zabezpieczają: >A. pompy główne przed przeciążeniem _n_B. urządzenie przed uszkodzeniem na skutek siły zewnętrznej działającej na płetwę steru_n_C. rozdzielacze przed wadliwym działaniem >1>15.jpg
+49. O W elektrohydraulicznym urządzeniu sterowym rys. 15 zawory zwrotne ze sterowanym otwarciem 7 zabezpieczają przed: >A. przeciążeniem siłownika łopatkowego _n_B. przeciążeniem rozdzielaczy nadmiernym ciśnieniem _n_C. niekontrolowanym nadmiernym wychyleniem płetwy sterowej >2>15.jpg
+50. W elektrohydraulicznym urządzeniu sterowym rys. 15 sterowanie awaryjne realizowane jest przy pomocy: >A. przycisków na kolumnie sterowej na mostku _n_B. przycisków na rozdzielaczach pomocniczych 4 _n_C. ręcznego sterowania pompami głównymi 2 >1>15.jpg
+51. O Sprzężenie zwrotne w układzie telemotoru urządzenie sterowego: >A. informuje o aktualnym położeniu płetwy sterowej _n_B. pozwala na awaryjne sterowanie urządzeniem sterowym _n_C. daje sygnał do samoczynnego zakończenia wychylania płetwy steru po osiągnięciu położenia zadanego przez sternika>2
+52. O Przedstawiony na rys. 16 mechanizm zmiany skoku śruby nastawnej jest typu: >A. korbowego _n_B. suwakowego _n_C. jarzmowego >0>16.jpg
+53. O W urządzeniu śruby nastawnej rys. 17 dławiki 22 służą do zabezpieczenia >A. siłownika hydraulicznego przed nadmiernym ciśnieniem _n_B. uderzeniem hydraulicznym i zbyt szybkiej zmianie skoku śruby _n_C. zmianą skoku śruby na skutek przepływów zwrotnych oleju >1>17.jpg
+54. O Czy łożyska kompozytowe pochwy wału śrubowego smarowane są: >A. wodą lub płynem biodegradowalnym _n_B. olejem _n_C. emulsją oleju i wody >0
+55. O Pochwa wału śrubowego typu SIMPLEX ma łożyska smarowane: >A. wodą lub płynem biodegradowalnym _n_B. olejem _n_C. emulsją oleju i wody >1
+56. O Sprzęgła odśrodkowe są w: >A. napędach głównych statków _n_B. napędach turbosprężarek _n_C. napędach wirówek >2
